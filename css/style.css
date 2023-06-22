@@ -8,12 +8,11 @@ body{
     font-family: 'Hanken Grotesk', sans-serif;
     font-size: 18px;
     line-height: 1.2em;
-    background-color: #f4f4f4;
 }
 
 .main-container{
     width: 650px;
-    margin: 150px auto;
+    margin: 250px auto;
 }
 
 .main-box{
@@ -21,6 +20,7 @@ body{
     justify-content: start;
     border-radius: 25px;
     background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.241) 0px 48px 100px 0px;
 }
 
 .container-1{
