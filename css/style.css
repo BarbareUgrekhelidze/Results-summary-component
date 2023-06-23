@@ -13,6 +13,8 @@ body{
 .main-container{
     width: 650px;
     margin: 250px auto;
+    display: flex;
+    justify-content: center;
 }
 
 .main-box{
