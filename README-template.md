@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://github.com/barbare999/Results-summary-component.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/Results-summary-component.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/Results-summary-component.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/Results-summary-component/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/Results-summary-component.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/Results-summary-component/)
 
 ## My process
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](file:///C:/Users/Home/Desktop/Results%20Summary%20Component%20Main/index.html)
+- Website - [Add your name here](https://BarbareUgrekhelidze.github.io/Results-summary-component/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/settings)
