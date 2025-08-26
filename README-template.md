@@ -40,4 +40,4 @@ Users should be able to:
 ## Author
 
 - Website - [Add your name here](https://BarbareUgrekhelidze.github.io/Results-summary-component/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/settings)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
